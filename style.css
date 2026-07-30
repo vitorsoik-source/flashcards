@@ -22,6 +22,14 @@
 
 
 
+
+
+
+
+
+
+
+
 function finalizarLeitura() {
     lendo = false;
 }speechSynthesis.cancel();function lerEmVozAlta() {
